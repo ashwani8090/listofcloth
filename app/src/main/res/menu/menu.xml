@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+
+        <item android:title="fist" android:id="@+id/i1" > </item>
+        <item android:title="fist" android:id="@+id/i2" > </item>
+        <item android:title="fist" android:id="@+id/i3" > </item>
+
+
+    </group>
+    <group>
+
+        <item android:title="fist" android:id="@+id/i4" > </item>
+        <item android:title="fist" android:id="@+id/i5" > </item>
+        <item android:title="fist" android:id="@+id/i6" > </item>
+
+
+    </group>
+
+
+</menu>

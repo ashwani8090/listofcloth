@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CLOTHES</string>
+<string name="key">com.example.ashwanithakur.listofcloth.s</string>
+
+
+
+
+    <string-array name="list">
+
+        <item>Top</item>
+        <item>Kurti</item>
+    </string-array>
+
+</resources>
